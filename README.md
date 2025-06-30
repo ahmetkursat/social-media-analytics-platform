@@ -1,2 +1,1 @@
-# social-media-analytics-platform
-Real-time social media content analysis and moderation platform built with .NET 8 and React.
+[socialpulse_setup.md](https://github.com/user-attachments/files/20978371/socialpulse_setup.md)
